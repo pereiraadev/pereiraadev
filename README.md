@@ -8,6 +8,9 @@
 
 #
 
+<p align="center">👨‍💻PEDRO HENRIQUE SANTOS PEREIRA
+
+
 <p align="center">Estudante de Sistemas de Informacoes no Instituto Federal da Bahia.
 Estou constantemente atualizando meus conhecimentos e buscando novos desafios na área de tecnologia. Tenho paixão por aprender e aplicar esses conhecimentos para criar soluções inovadoras.
   
